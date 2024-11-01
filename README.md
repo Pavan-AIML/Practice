@@ -3,8 +3,8 @@
 
 ### The following algorithms/steps will be part of the project 🚀 🚀
 
-IoU (Intersection over Union) computing.
-Computing image gradients.
-Filling the Histogram of oriented gradient (HOG ) bins.
-Sliding window detection.
-Nonmaximum impression calculation.
+- IoU (Intersection over Union) computing.
+- Computing image gradients.
+- Filling the Histogram of oriented gradient (HOG ) bins.
+- Sliding window detection.
+- Nonmaximum impression calculation.
