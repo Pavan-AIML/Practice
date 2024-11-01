@@ -1,4 +1,4 @@
-<h1 align="center">Object detection 👁️ </h1>
+<h1 align="center">Computer Vision(Object detection)👁️ </h1>
 <h2 align = "left" >Here we will learn about the state-of-the-art object detection algorithms with technical in-depth details of the model architecture. </h2>
 
 <h3 align = "left" > The following algorithms/steps will be part of the project 🚀 🚀 </h3>
